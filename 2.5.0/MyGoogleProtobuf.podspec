@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.platform = :ios, '5.0'
-    s.name     = 'GoogleProtobuf'
+    s.name     = 'MyGoogleProtobuf'
     s.version  = '2.5.0'
     s.license = {
         :type => 'BSD',
